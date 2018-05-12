@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22825#The-Smoker-s-Year-Book
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
 identifiers:
